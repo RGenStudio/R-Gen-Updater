@@ -2,7 +2,7 @@
   "pro": {
     "version": "1.3",
     "download_url": "https://raw.githubusercontent.com/RGenStudio/R-Gen-Updater/de18c8698c160418fdf91f11c67ea92fe48059ad/R-Gen%20Pro%201.3.exe",
-    "filename": "R-Gen Pro 1.3.exe"
+    "filename": "R-Gen Pro 1.3.exe",
   },
   "standard": {
     "version": "1.3",
@@ -10,8 +10,8 @@
     "filename": "R-Gen Standard 1.3.exe"
   },
   "pro_submit_task": {
-        "version": "1.0.0",
-        "download_url": "https://raw.githubusercontent.com/RGenStudio/R-Gen-Updater/de18c8698c160418fdf91f11c67ea92fe48059ad/submit_task.png",
-        "filename": "submit_task.png"
-    }
+    "version": "1.0.0",
+    "download_url": "https://raw.githubusercontent.com/RGenStudio/R-Gen-Updater/de18c8698c160418fdf91f11c67ea92fe48059ad/submit_task.png",
+    "filename": "submit_task.png"
+  }
 }
